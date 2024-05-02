@@ -1,2 +1,5 @@
 git is a version control system
 keeps track of code changes
+
+why to initialize repository?
+as we need to consider it as source file.
