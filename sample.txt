@@ -3,3 +3,5 @@ keeps track of code changes
 
 why to initialize repository?
 as we need to consider it as source file.
+it is updating step from github
+example of pull requests
